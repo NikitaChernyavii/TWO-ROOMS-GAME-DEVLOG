@@ -41,7 +41,7 @@ This project focuses on robust multiplayer architecture using Blueprint best pra
   
   **Role Assignment & Spawning** ![Role Assignment](RoleDesk.png)
   
-  **Multiplayer Logic Flows** ![Logic Flows](RoleDesk2.jpg)
+  **Multiplayer Logic Flows** ![Logic Flows](RoleDesk2.png)
   
   **Modular UI Components** ![Base Button](WBP_Base.png)
   
